@@ -1,0 +1,30 @@
+body {
+    height: 700px;
+    width: 1000px;
+    background-color: rgb(88, 199, 105);
+}
+
+#baner {
+    height: 40%;
+    background-color: red;
+
+}
+#menu {
+    height: 60%;
+    width: 40%;
+    float: left;
+    background-color: aqua;
+
+}
+#tresc {
+    height: 60%;
+    width: 60%;
+    float: left;
+    background-color: #7430ff;
+}
+#stopka {
+    height: 10%;
+    width: 100%;
+    float: left;
+    background-color: burlywood;
+}
